@@ -9,7 +9,7 @@ const config = {
   title: "Markdown Tutorial",
   tagline: "Get Down with Markdown",
   url: "https://alonsoCan01.github.io", // Your website URL
-  baseUrl: "/",
+  baseUrl: "/sample-docs/",
   projectName: "sample-docs",
   organizationName: "alonsoCan01",
   trailingSlash: false,
