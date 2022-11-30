@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Markdown Tutorial",
   tagline: "Get Down with Markdown",
-  url: "https://alonsoCan01.github.io/sample-docs/", // Your website URL
+  url: "https://alonsoCan01.github.io", // Your website URL
   baseUrl: "/",
   projectName: "sample-docs",
   organizationName: "alonsoCan01",
