@@ -1,6 +1,6 @@
 {
-  "name": "testa-notes",
-  "version": "0.0.0",
+  "name": "sample-docs",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
